@@ -514,7 +514,7 @@ const periodictable=[
     a:178,
     z:72,
     n:106,
-    configuration:"[Kr]4d2-5s2",//Add config from here!!!
+    configuration:"[Xe]4f14-5d2-6s2",
     type:"Transition-metal",
   },
   {
@@ -523,7 +523,7 @@ const periodictable=[
     a:181,
     z:73,
     n:108,
-    configuration:"[Kr]4d4-5s1",
+    configuration:"[Xe]4f14-5d3-6s2",
     type:"Transition-metal",
   },
   {
@@ -532,7 +532,7 @@ const periodictable=[
     a:184,
     z:74,
     n:110,
-    configuration:"[Kr]4d5-5s1",
+    configuration:"[Xe]4f14-5d4-6s2",
     type:"Transition-metal",
   },
   {
@@ -541,7 +541,7 @@ const periodictable=[
     a:186,
     z:75,
     n:111,
-    configuration:"[Kr]4d5-5s2",
+    configuration:"[Xe]4f14-5d5-6s2",
     type:"Transition-metal",
   },
   {
@@ -550,7 +550,7 @@ const periodictable=[
     a:190,
     z:76,
     n:114,
-    configuration:"[Kr]4d7-5s1",
+    configuration:"[Xe]4f14-5d6-6s2",
     type:"Transition-metal",
   },
   {
@@ -559,7 +559,7 @@ const periodictable=[
     a:192,
     z:77,
     n:115,
-    configuration:"[Kr]4d8-5s1",
+    configuration:"[Xe]4f14-5d7-6s2",
     type:"Transition-metal",
   },
   {
@@ -568,7 +568,7 @@ const periodictable=[
     a:195,
     z:78,
     n:118,
-    configuration:"[Kr]4d10",
+    configuration:"[Xe]4f14-5d9-6s1",
     type:"Transition-metal",
   },
   {
@@ -577,7 +577,7 @@ const periodictable=[
     a:197,
     z:79,
     n:119,
-    configuration:"[Kr]4d10-5s1",
+    configuration:"[Xe]4f14-5d10-6s1",
     type:"Transition-metal",
   },
   {
@@ -586,7 +586,7 @@ const periodictable=[
     a:201,
     z:80,
     n:122,
-    configuration:"[Kr]4d10-5s2",
+    configuration:"[Xe]4f14-5d10-6s2",
     type:"Transition-metal",
   },
   {
@@ -595,7 +595,7 @@ const periodictable=[
     a:204,
     z:81,
     n:124,
-    configuration:"[Kr]4d10-5s2-5p1",
+    configuration:"[Xe]4f14-5d10-6s2-6p1",
     type:"Metal",
   },
   {
@@ -604,7 +604,7 @@ const periodictable=[
     a:207,
     z:82,
     n:125,
-    configuration:"[Kr]4d10-5s2-5p2",
+    configuration:"[Xe]4f14-5d10-6s2-6p2",
     type:"Metal",
   },
   {
@@ -613,7 +613,7 @@ const periodictable=[
     a:209,
     z:83,
     n:126,
-    configuration:"[Kr]4d10-5s2-5p3",
+    configuration:"[Xe]4f14-5d10-6s2-6p3",
     type:"Metal",
   },
   {
@@ -622,7 +622,7 @@ const periodictable=[
     a:209,
     z:84,
     n:125,
-    configuration:"[Kr]4d10-5s2-5p4",
+    configuration:"[Xe]4f14-5d10-6s2-6p4",
     type:"Metalloid",
   },
   {
@@ -631,7 +631,7 @@ const periodictable=[
     a:210,
     z:85,
     n:125,
-    configuration:"[Kr]4d10-5s2-5p5",
+    configuration:"[Xe]4f14-5d10-6s2-6p5",
     type:"Halogen",
   },
   {
@@ -640,7 +640,7 @@ const periodictable=[
     a:222,
     z:86,
     n:136,
-    configuration:"[Kr]4d10-5s2-5p6",
+    configuration:"[Xe]4f14-5d10-6s2-6p6",
     type:"Noble gas",
   },
   {
